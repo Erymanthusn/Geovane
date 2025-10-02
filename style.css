@@ -80,6 +80,11 @@ main {
     filter: drop-shadow(10px 20px 10px black);
     transform: translateX(45%);
 }
+.content-video {
+    height: 33vh;
+    filter: drop-shadow(10px 20px 10px black);
+    transform: translateX(70%);
+}
 footer {
     height: 100px;
     display: flex;
@@ -120,4 +125,5 @@ iframe{
     footer {
         padding: 0px 25px;
     }
+
 }
